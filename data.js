@@ -24,7 +24,7 @@ export const Cards = [
         img:'./public/wall5.jpg',
         type:'fill'
     },
-    {
-        type:'empty'
-    },
+    // {
+    //     type:'empty'
+    // },
 ]
